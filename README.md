@@ -1,2 +1,2 @@
 # PortfolioSite
-project for new personal site using react and nextjs
+project for new personal portfolio site using react and nextjs
